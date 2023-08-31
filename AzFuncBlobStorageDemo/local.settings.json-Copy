@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureStorageBlobOptions:AccountName": "",
+    "AzureStorageBlobOptions:ConnectionString": "",
+    "AzureStorageBlobOptions:Container": "",
+    "AzureStorageBlobOptions:PathUpload": "",
+    "AzureStorageBlobOptions:PathProcessed": "",
+    "AzureStorageBlobOptions:PathOnError": ""
+  }
+}
